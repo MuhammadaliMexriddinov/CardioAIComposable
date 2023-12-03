@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Cardio AI</string>
+    <string name="main1">Rasmni (png , jpg) formatida tanlang !</string>
+
+
+
+
+    <string name="intro1_1">Kattalashgan yurak (kardiomegaliya)</string>
+    <string name="intro1_2">BU KASALLIK EMAS, BALKI BOSHQA HOLATNING BELGISIDIR</string>
+
+    <string name="intro2_1">holat farqlari</string>
+    <string name="intro2_2">holatga qarab, kattalashgan yurak vaqtinchalik yoki doimiy bo`lishi mumkin</string>
+
+    <string name="intro3_1">sun`iy\n intellekt (AI))</string>
+    <string name="intro3_2">Konvolyutsion neyron tarmoqlarga asoslangan, bashorat qilish aniqligi 90% bo`lgan usul qo`llaniladi</string>
+
+
+    <string name="start1_1">Foydalanish shartlari</string>
+    <string name="start1_2">"Ushbu test to'liq diagnostika emas. Natijalar faqat ma'lumot olish uchun mo'ljallangan va aniq tashxis emas. Ma'lumotlaringiz xavfsizligi ta'minlanadi. Siz taqdim etgan ma'lumotlar anonimdir va uchinchi shaxslar bilan baham ko'rilmaydi."</string>
+    <string name="start1_3">Roziman</string>
+    <string name="start1_4">Bekor</string>
+
+    <string name="map1">Xarita</string>
+
+    <string name="loca1_0">Respublika ixtisoslashtirilgan jarrohlik angionevrologiya markazi</string>
+    <string name="loca1_1">Toshkent, st. Forobiy 2.</string>
+    <string name="loca1_2">+998781509212</string>
+
+    <string name="loca2_0">Nomli Respublika ixtisoslashtirilgan jarrohlik markazi. Akademik V.V.Vohidov</string>
+    <string name="loca2_1">Toshkent sh., Chilonzor tumani, koʻch. Kichik xalqa yo‘li, 10d</string>
+    <string name="loca2_2">+998712772765</string>
+
+    <string name="loca3_0">Respublika ixtisoslashtirilgan terapiya va tibbiy reabilitatsiya ilmiy-amaliy tibbiyot markazi</string>
+    <string name="loca3_1">Toshkent, st. Xurshida, 4</string>
+    <string name="loca3_2">+998712343321</string>
+
+    <string name="loca4_0">Respublika shoshilinch tibbiy yordam ilmiy markazi</string>
+    <string name="loca4_1">Toshkent sh., Kichik halqa yo‘li, 2-son</string>
+    <string name="loca4_2">+998711504600</string>
+
+    <string name="loca5_0">Toshkent tibbiyot akademiyasining ko‘p tarmoqli klinikasi (yangi TMA hududi)</string>
+    <string name="loca5_1">Toshkent sh., Olmazor tumani, Shifokorlar ko‘chasi 2-uy</string>
+    <string name="loca5_2">+998781509786</string>
+
+    <string name="loca6_0">Respublika ixtisoslashtirilgan kardiologiya ilmiy-amaliy tibbiyot markazi</string>
+    <string name="loca6_1">Toshkent shahri, Osiyo ko‘chasi 4-uy</string>
+    <string name="loca6_2">+998712373844</string>
+
+    <string name="loca7_0">Tibbiyot xodimlarining kasbiy malakasini oshirish markazining ko‘p tarmoqli klinikasi</string>
+    <string name="loca7_1">Toshkent shahri, Sodiq Azimov ko‘chasi, 74-uy</string>
+    <string name="loca7_2">+998712336717</string>
+
+    <string name="next">Keyingi</string>
+    <string name="faq1">Ko`p so`raladigan savollar !!</string>
+    <string name="faq2_0">"Yurakning kattalashishi xavfini oshirishi mumkin bo'lgan omillar (kardiomegaliya) quyidagilarni o'z ichiga oladi:"</string>
+    <string name="faq2">"Oilada yurak mushagi kasalligi (kardiyomiyopatiya) mavjudligi. Kardiyomiyopatiyaning ayrim turlari meros qilib olinadi. Ota-onangiz yoki aka-ukalaringizning birortasida qalin, qattiq yoki kattalashgan yurak tarixi bo'lsa, shifokoringizga xabar bering.\n* Yuqori qon bosimi. Bu shuni anglatadiki, qon bosimini o'lchash 140/90 millimetr simobdan yuqori bo'lishi kerak.\n* Yurak kasalliklari. Yurakka ta'sir qiladigan har qanday muammo, shu jumladan tug'ma yurak nuqsonlari yoki yurak qopqog'i kasalligi yurakning kattalashishiga olib kelishi mumkin. Yurak kasalliklarini boshqarish uchun sog'lom turmush tarzini olib borish va muntazam ravishda tibbiy ko'rikdan o'tish muhimdir."</string>
+    <string name="faq3_0">Asoratlar</string>
+    <string name="faq3">"Yurakning kattalashishi bilan bog'liq asoratlar xavfi yurakning ta'sirlangan qismiga va sababiga bog'liq. Kattalashgan yurakning asoratlari quyidagilarni o'z ichiga olishi mumkin:\n* Yurak etishmovchiligi. Yurakning chap pastki kamerasi (chap qorincha) kattalashganda yurak etishmovchiligi paydo bo'lishi mumkin. Yurak etishmovchiligida yurak tanadagi kerakli miqdordagi qonni pompalay olmaydi.\n* Qon pıhtılarının shakllanishi. Yurak shilliq qavatida qon quyqalari paydo bo'lishi mumkin. Yurakning o'ng tomonida hosil bo'lgan qon pıhtısı o'pkaga tushishi mumkin (o'pka emboliyasi). Agar qon pıhtısı qon oqimini to'sib qo'ysa, siz yurak xuruji yoki qon tomiriga duch kelishingiz mumkin.\n* Yurak klapanining oqishi (regürjitatsiya). Yurakning kattalashishi yurakning mitral va triküspid klapanlarining yopilishiga to'sqinlik qilishi mumkin, bu esa qonning teskari chiqishiga olib keladi. Qon oqimining uzilishi yurak shovqini deb ataladigan tovushni hosil qiladi. Yurak shovqinlari zararli bo'lmasa-da, ularni shifokor nazorat qilishi kerak.\n* Yurak tutilishi va to'satdan o'lim. Kattalashgan yurak uni juda tez yoki juda sekin urishiga olib kelishi mumkin. Noto'g'ri yurak urishi (aritmiya) hushidan ketish, yurak tutilishi yoki to'satdan o'limga olib kelishi mumkin."</string>
+    <string name="faq4_0">Oldini olish</string>
+    <string name="faq4">"Oilangizdan birortasida kardiyomiyopatiya yoki yurakning kengayishiga olib keladigan boshqa kasalliklar bo'lsa, shifokoringizga xabar bering. Erta tashxis qo'yilganda, asosiy kasallikni to'g'ri davolash kattalashgan yurakning yomonlashishini oldini oladi.\nYurak uchun sog'lom turmush tarziga rioya qilish yurakning kattalashishiga olib kelishi mumkin bo'lgan ba'zi holatlarning oldini olish yoki boshqarishga yordam beradi. Yurakning kattalashishini oldini olish uchun ushbu choralarni ko'ring:\n* Yuqori qon bosimi, yuqori xolesterin va diabetni nazorat qiling va davolang.\n* Belgilangan dori-darmonlarni shifokor ko'rsatmasi bo'yicha qabul qiling.\n* Oziqlantiruvchi, muvozanatli ovqatlanishni iste'mol qiling.\n* Muntazam jismoniy mashqlar bilan shug'ullaning.\n* Spirtli ichimliklarni iste'mol qilishdan saqlaning yoki spirtli ichimliklarni iste'mol qilishni cheklang.\n* Chekmang.\n* Noqonuniy giyohvand moddalarni iste'mol qilmang."</string>
+    <string name="info_0">Ma`lumot !</string>
+    <string name="info">"Kengaygan yurak (kardiomegaliya) kasallik emas, balki boshqa holatning alomatidir.\n'Kardiomegali' atamasi ko'krak qafasi rentgenogrammasini o'z ichiga olgan har qanday ko'rish testida ko'rilgan kattalashgan yurakni anglatadi. Keyinchalik yurakning kengayishiga olib keladigan holatni aniqlash uchun boshqa testlar kerak bo'ladi.\nYurakning shikastlanishi va yurak kasalliklarining ayrim turlari yurakning kengayishiga olib kelishi mumkin. Ba'zida tanadagi qisqa muddatli stress, masalan, homiladorlik, yurakning kengayishiga olib kelishi mumkin. Vaziyatga qarab, kengaygan yurak vaqtinchalik yoki doimiy bo'lishi mumkin.\nKengaygan yurakni davolash dori-darmonlar, tibbiy muolajalar yoki jarrohlik usullarini o'z ichiga olishi mumkin.\n\n80,2% bashoratli aniqlik bilan raqamli rentgen nurlaridan kardiomegaliya diagnostikasi uchun chuqur o'rganish modeli."</string>
+
+    <string name="distance">Sizdan bu yergacha bo`lgan masofa</string>
+
+
+</resources>
